@@ -1,6 +1,6 @@
 cask "locus" do
-  version "0.1.3"
-  sha256 "4fcfc5582e74707a108c945a63898fceb020757fa7ead8c40d8e56f316985003"
+  version "0.1.4"
+  sha256 "02a523f5cc8eda220e6c6ebdc8ca6f819b590ffd8b133fe5713dfc2660efecee"
 
   url "https://github.com/entigrate/locus/releases/download/v#{version}/Locus-#{version}.dmg"
   name "Locus"
